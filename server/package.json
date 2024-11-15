@@ -1,0 +1,13 @@
+{
+    "name": "server",
+    "version": "1.0.0",
+    "description": "Server for PWA Text Editor",
+    "scripts": {
+      "start": "webpack serve --mode development",
+  "build": "webpack --mode production"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
